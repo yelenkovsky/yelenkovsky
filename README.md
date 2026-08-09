@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Cursor Profile](https://img.shields.io/badge/Cursor-@yelenkovsky-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.com/@yelenkovsky)
 
 <!--
 **yelenkovsky/yelenkovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
